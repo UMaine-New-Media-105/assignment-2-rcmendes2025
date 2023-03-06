@@ -9,3 +9,6 @@ I had to create a freeform shape.
 
 Question 3 - https://editor.p5js.org/ryan.mendes1/sketches/fvR48MvLH
 I had to translate the previous freeform shape.
+
+Question 4 - https://editor.p5js.org/ryan.mendes1/sketches/r7ldIXQcA
+I had to create a flag out of two existing flags.
